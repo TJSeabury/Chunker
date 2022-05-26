@@ -1,0 +1,14 @@
+{
+  "name": "@tjseabury/chunker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chunkit": "node --max-old-space-size=8192 ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  }
+}
