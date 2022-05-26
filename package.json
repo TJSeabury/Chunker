@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "chunkit": "node --max-old-space-size=8192 ."
+    "chunker": "node --max-old-space-size=8192 ."
   },
   "author": "",
   "license": "ISC",
